@@ -1,2 +1,2 @@
-# OIBSIP-may-P2
-This is Repository folder where some (Android project) as a Task are mentioned in it.
+# Quiz App
+This is Repository folder about Quiz App and their features.
